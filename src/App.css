@@ -1,0 +1,25 @@
+.container {
+  width: 80%;
+  margin: auto;
+  background-color: aquamarine;
+  text-align: center;
+  padding: 25px;
+}
+.btn {
+  width: 12%;
+  padding: 16px;
+  text-transform: uppercase;
+  background-color: #62e30b;
+  margin: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #ed070f;
+}
+p {
+  color: #ed020a;
+  font-size: 25px;
+  font-weight: 900;
+}
